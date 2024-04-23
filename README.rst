@@ -11,6 +11,9 @@ Talks
 This modified version of Python was the topic of my PyCon DE 2022 and PyCon US
 2022 talks.
 
+[link 1](https://youtu.be/2_TmUOCr1nw)
+[link 2](https://www.youtube.com/watch?v=f8nTJp_k7U8)
+
 
 Copyright and License Information
 ---------------------------------
